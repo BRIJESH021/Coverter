@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coverter</string>
+    <string-array name="data">
+        <item>Kilometer</item>
+        <item>Meter</item>
+        <item>Feet</item>
+        <item>Inches</item>
+        <item>Centimeters</item>
+    </string-array>
+</resources>
